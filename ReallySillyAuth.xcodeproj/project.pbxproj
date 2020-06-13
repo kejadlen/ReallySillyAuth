@@ -99,13 +99,13 @@
 		DEFF8809249464230090F50B /* ReallySillyAuth */ = {
 			isa = PBXGroup;
 			children = (
+				DEFF8818249464240090F50B /* Info.plist */,
 				DEFF880A249464230090F50B /* AppDelegate.swift */,
 				DEFF880C249464230090F50B /* SceneDelegate.swift */,
 				DEFF880E249464230090F50B /* ViewController.swift */,
-				DEFF8810249464230090F50B /* Main.storyboard */,
 				DEFF8813249464240090F50B /* Assets.xcassets */,
 				DEFF8815249464240090F50B /* LaunchScreen.storyboard */,
-				DEFF8818249464240090F50B /* Info.plist */,
+				DEFF8810249464230090F50B /* Main.storyboard */,
 			);
 			path = ReallySillyAuth;
 			sourceTree = "<group>";
@@ -113,8 +113,8 @@
 		DEFF8820249464240090F50B /* ReallySillyAuthTests */ = {
 			isa = PBXGroup;
 			children = (
-				DEFF8821249464240090F50B /* ReallySillyAuthTests.swift */,
 				DEFF8823249464240090F50B /* Info.plist */,
+				DEFF8821249464240090F50B /* ReallySillyAuthTests.swift */,
 			);
 			path = ReallySillyAuthTests;
 			sourceTree = "<group>";
@@ -122,8 +122,8 @@
 		DEFF882B249464240090F50B /* ReallySillyAuthUITests */ = {
 			isa = PBXGroup;
 			children = (
-				DEFF882C249464240090F50B /* ReallySillyAuthUITests.swift */,
 				DEFF882E249464240090F50B /* Info.plist */,
+				DEFF882C249464240090F50B /* ReallySillyAuthUITests.swift */,
 			);
 			path = ReallySillyAuthUITests;
 			sourceTree = "<group>";
